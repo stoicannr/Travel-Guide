@@ -1,0 +1,67 @@
+Date : 2022-04-07 15:17:08
+Directory : c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src
+Total : 37 files,  3069 codes, 132 comments, 304 blanks, all 3505 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         29 |      2,458 |        131 |        282 |      2,871 |
+| XML        |          2 |        489 |          0 |          2 |        491 |
+| CSS        |          6 |        122 |          1 |         20 |        143 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                              | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                 |         37 |      3,069 |        132 |        304 |      3,505 |
+| components                                                                                                                        |         24 |      2,328 |         89 |        256 |      2,673 |
+| components\api-authorization                                                                                                      |          7 |        569 |         37 |         85 |        691 |
+| services                                                                                                                          |          1 |         29 |          0 |          3 |         32 |
+| store                                                                                                                             |          4 |         68 |          0 |         15 |         83 |
++-----------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                          | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\App.js                                                    | JavaScript |         44 |         14 |          7 |         65 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\App.test.js                                               | JavaScript |         12 |          0 |          2 |         14 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\ad.svg                                                    | XML        |        321 |          0 |          1 |        322 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\aiga-departures-bg.svg                                    | XML        |        168 |          0 |          1 |        169 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\DirectionsMap.js                               | JavaScript |         38 |          0 |          5 |         43 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\FetchData.js                                   | JavaScript |         60 |          0 |          8 |         68 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\Header.js                                      | JavaScript |        236 |          0 |         17 |        253 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\Home.js                                        | JavaScript |         18 |          0 |          4 |         22 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\IndexUsers.js                                  | JavaScript |        147 |          0 |         13 |        160 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\Layout.js                                      | JavaScript |         14 |          0 |          3 |         17 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\LocationDialog.js                              | JavaScript |        150 |         42 |         14 |        206 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\LocationsGrid.js                               | JavaScript |        145 |          0 |         15 |        160 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\NavMenu.css                                    | CSS        |         16 |          0 |          3 |         19 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\Register.js                                    | JavaScript |        193 |          0 |         10 |        203 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\SignIn.js                                      | JavaScript |        156 |          0 |         11 |        167 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\TravelGuideMap.js                              | JavaScript |        305 |          0 |         38 |        343 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\UserDialog.js                                  | JavaScript |        186 |         10 |         16 |        212 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\api-authorization\ApiAuthorizationConstants.js | JavaScript |         33 |          0 |          6 |         39 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\api-authorization\ApiAuthorizationRoutes.js    | JavaScript |         26 |          0 |          5 |         31 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\api-authorization\AuthorizeRoute.js            | JavaScript |         49 |          0 |          8 |         57 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\api-authorization\AuthorizeService.js          | JavaScript |        163 |         18 |         33 |        214 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\api-authorization\Login.js                     | JavaScript |        109 |         12 |         13 |        134 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\api-authorization\LoginMenu.js                 | JavaScript |         78 |          0 |          9 |         87 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\api-authorization\Logout.js                    | JavaScript |        111 |          7 |         11 |        129 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\createUpdate.css                               | CSS        |          9 |          0 |          2 |         11 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\googleM.css                                    | CSS        |         63 |          0 |          6 |         69 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\modalStyle.css                                 | CSS        |         13 |          0 |          3 |         16 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\components\users.css                                      | CSS        |         10 |          0 |          3 |         13 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\custom.css                                                | CSS        |         11 |          1 |          3 |         15 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\index.js                                                  | JavaScript |         17 |          8 |          4 |         29 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\registerServiceWorker.js                                  | JavaScript |         49 |         19 |         10 |         78 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\services\UserService.js                                   | JavaScript |         29 |          0 |          3 |         32 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\setupTests.js                                             | JavaScript |         22 |          1 |          2 |         25 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\store\locationSlice.js                                    | JavaScript |         12 |          0 |          4 |         16 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\store\myCurrentLocationSlice.js                           | JavaScript |         12 |          0 |          4 |         16 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\store\store.js                                            | JavaScript |         11 |          0 |          2 |         13 |
+| c:\Users\Robert\Downloads\lab-g52\lab-g52\TravelGuide.Web\ClientApp\src\store\userSlice.js                                        | JavaScript |         33 |          0 |          5 |         38 |
+| Total                                                                                                                             |            |      3,069 |        132 |        304 |      3,505 |
++-----------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

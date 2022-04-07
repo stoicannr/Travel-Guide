@@ -1,0 +1,69 @@
+#addButtonMap {
+  position: absolute;
+  right: 2rem;
+  bottom: 2rem;
+  z-index: 10;
+  margin: 0;
+  padding: 0;
+  background-color: blanchedalmond;
+  color: green;
+  box-shadow: black;
+}
+
+#editMapButton {
+  position: absolute;
+  right: 2rem;
+  bottom: 2rem;
+  z-index: 10;
+  margin: 0;
+  padding: 0;
+  background-color: blanchedalmond;
+  color: green;
+  box-shadow: black;
+}
+
+#addNavigatorButton {
+  position: absolute;
+  right: 2rem;
+  bottom: 2rem;
+  z-index: 10;
+  margin: 0;
+  padding: 0;
+}
+
+#editNavigatorButton {
+  position: absolute;
+  right: 2rem;
+  bottom: 2rem;
+  z-index: 10;
+  margin: 0;
+  padding: 0;
+}
+
+#navigate {
+  position: absolute;
+  right: 6rem;
+  bottom: 2.3rem;
+  z-index: 10;
+  margin: 0;
+}
+
+#profileImage {
+  width: 200px;
+  height: 150px;
+  margin-right: 10px;
+  border-radius: 10%;
+}
+
+.card
+{
+  width: 100%;
+  height: 200px;
+  background-color: blue;
+  color:white;
+  font-size: 30px;
+  margin: 0 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
